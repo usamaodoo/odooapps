@@ -4,7 +4,7 @@
     "name": "Sale Quotation Report",
     'version': '14.0.0.0',
     "category": 'Sale',
-    "summary": ' Print wiht and without BOQ reports in Sale Quotation',
+    "summary": ' Print with and without BOQ reports in Sale Quotation',
     'sequence': 1,
     "description": """"  """,
     "author": "Usama Shakeel",
